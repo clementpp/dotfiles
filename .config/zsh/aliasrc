@@ -1,0 +1,7 @@
+alias cls='clear'
+alias vb='vim ~/.config/bspwm/bspwmrc'
+alias vp='vim ~/.config/polybar/config'
+alias vx='vim ~/.Xresources'
+alias vs='vim ~/.config/sxhkd/sxhkdrc'
+alias ncm='ncmpcpp'
+alias ls='ls -a'

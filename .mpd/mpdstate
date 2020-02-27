@@ -1,0 +1,191 @@
+sw_volume: 54
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 148
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:[IOSYS] Grimoire of IOSYS 東方BEST ALBUM vol.1/DISC.01 - Chapter of DENPA/01.魔理沙は大変なものを盗んでいきました(Voc)(07-07).mp3
+1:Aphex Twin/1992 - Selected Ambient Works, 85-92/01 Xtal.m4a
+2:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/02 duvet Cyberia reMIX.flac
+3:Neon Genesis evangelion 10th Anniversary - Decade/2. FLY ME TO THE MOON.flac
+4:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/01. Old Age Of Dracula (Main Titles).mp3
+5:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/02. In The Cellars Of The Castle.mp3
+6:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/03. Nostalgia.mp3
+7:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/04. On The Journey To Italy.mp3
+8:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/05. First Victim.mp3
+9:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/06. On Journey Again.mp3
+10:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/07. An Old Song.mp3
+11:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/08. Dracula's Theme.mp3
+12:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/09. More Blood.mp3
+13:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/10. At The Inn.mp3
+14:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/11. Memories Of Rumania.mp3
+15:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/12. Dracula Is Unmasked!.mp3
+16:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/13. A Regret.mp3
+17:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/14. The Vampire Escapes.mp3
+18:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/15. The Last Victim.mp3
+19:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/16. Pursuit And Death Of Dracula.mp3
+20:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/17. Dracula's Theme (End Titles).mp3
+21:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/18. In The Cellars Of The Castle (#2).mp3
+22:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/19. Dracula's Theme (#2).mp3
+23:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/20. On The Journey To Italy (#2).mp3
+24:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/21. First Victim (#2).mp3
+25:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/22. Dracula's Theme (#3).mp3
+26:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/23. An Old Song (#2).mp3
+27:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/24. Dracula's Theme (#4).mp3
+28:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/25. In The Cellars Of The Castle (#3).mp3
+29:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/26. A Regret (#2).mp3
+30:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/27. On The Journey To Italy (#3).mp3
+31:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/28. Dracula's Theme (#5).mp3
+32:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/29. The Last Victim (#2).mp3
+33:Flesh For Frankenstein - Blood For Dracula/Flesh For Frankenstein - Blood For Dracula/CD 2 - Blood For Dracula/30. Old Age Of Dracula (#2).mp3
+34:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/01 SpeEd.flac
+35:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/03 Professed Intention and Real Intention.flac
+36:Aphex Twin/1992 - Selected Ambient Works, 85-92/01 Xtal.m4a
+37:Aphex Twin/1992 - Selected Ambient Works, 85-92/02 Tha.m4a
+38:Aphex Twin/1992 - Selected Ambient Works, 85-92/03 Pulsewidth.m4a
+39:Aphex Twin/1992 - Selected Ambient Works, 85-92/04 Ageispolis.m4a
+40:Aphex Twin/1992 - Selected Ambient Works, 85-92/05 I.m4a
+41:Aphex Twin/1992 - Selected Ambient Works, 85-92/06 Green Calx.m4a
+42:Aphex Twin/1992 - Selected Ambient Works, 85-92/07 Heliosphan.m4a
+43:Aphex Twin/1992 - Selected Ambient Works, 85-92/08 We Are The Music Makers.m4a
+44:Aphex Twin/1992 - Selected Ambient Works, 85-92/09 Schottkey 7th Path.m4a
+45:Aphex Twin/1992 - Selected Ambient Works, 85-92/10 Ptolemy.m4a
+46:Aphex Twin/1992 - Selected Ambient Works, 85-92/11 Hedphelym.m4a
+47:Aphex Twin/1992 - Selected Ambient Works, 85-92/12 Delphium.m4a
+48:Aphex Twin/1992 - Selected Ambient Works, 85-92/13 Actium.m4a
+49:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/01 - Cliffs.mp3
+50:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/02 - Radiator.mp3
+51:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/03 - Rhubarb.mp3
+52:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/04 - Hankie.mp3
+53:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/05 - Grass.mp3
+54:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/06 - Mold.mp3
+55:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/07 - Curtains.mp3
+56:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/08 - Blur.mp3
+57:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/09 - Weathered Stone.mp3
+58:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/10 - Tree.mp3
+59:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/11 - Domino.mp3
+60:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD1/12 - White Blur 1.mp3
+61:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/01 - Blue Calx.mp3
+62:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/02 - Parallel Stripes.mp3
+63:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/03 - Shiny Metal Rods.mp3
+64:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/04 - Grey Stripe.mp3
+65:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/05 - Z Twig.mp3
+66:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/06 - Windowsill.mp3
+67:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/07 - Hexagon.mp3
+68:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/08 - Lichen.mp3
+69:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/09 - Spots.mp3
+70:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/10 - Tassels.mp3
+71:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/11 - White Blur 2.mp3
+72:Aphex Twin/1994 - Selected Ambient Works, Volume II/CD2/12 - Matchsticks.mp3
+73:Aphex Twin/1995 - Richard D. James Album/01 - 4.mp3
+74:Aphex Twin/1995 - Richard D. James Album/02 - Cornish Acid.mp3
+75:Aphex Twin/1995 - Richard D. James Album/03 - Peek 824545201.mp3
+76:Aphex Twin/1995 - Richard D. James Album/04 - Fingerbib.mp3
+77:Aphex Twin/1995 - Richard D. James Album/05 - Corn Mouth.mp3
+78:Aphex Twin/1995 - Richard D. James Album/06 - To Cure A Weakling Child.mp3
+79:Aphex Twin/1995 - Richard D. James Album/07 - Goon Gumpas.mp3
+80:Aphex Twin/1995 - Richard D. James Album/08 - Yellow Calx.mp3
+81:Aphex Twin/1995 - Richard D. James Album/09 - Girl,Boy Song.mp3
+82:Aphex Twin/1995 - Richard D. James Album/10 - Logon-Rock Witch.mp3
+83:Aphex Twin/1995 - Richard D. James Album/11 - Milkman.mp3
+84:Aphex Twin/1995 - Richard D. James Album/12 - Inkey$.mp3
+85:Aphex Twin/1995 - Richard D. James Album/13 - Girl,Boy (18 Snare Rush Mix).mp3
+86:Aphex Twin/1995 - Richard D. James Album/14 - Beetles.mp3
+87:Aphex Twin/1995 - Richard D. James Album/15 - Girl,Boy (Redruth Mix).mp3
+88:Aphex Twin - ...I Care Because You Do/01 - Acrid Avid Jam Shred.mp3
+89:Aphex Twin - ...I Care Because You Do/02 - The Waxen Pith.mp3
+90:Aphex Twin - ...I Care Because You Do/03 - Wax The Nip.mp3
+91:Aphex Twin - ...I Care Because You Do/04 - Icct Hedral.mp3
+92:Aphex Twin - ...I Care Because You Do/05 - Ventolin (Video Edit).mp3
+93:Aphex Twin - ...I Care Because You Do/06 - Come On You Slags.mp3
+94:Aphex Twin - ...I Care Because You Do/07 - Start As You Mean To Go On.mp3
+95:Aphex Twin - ...I Care Because You Do/08 - Wet Tip Hen Ax.mp3
+96:Aphex Twin - ...I Care Because You Do/09 - Mookid.mp3
+97:Aphex Twin - ...I Care Because You Do/10 - Alberto Balsalm.mp3
+98:Aphex Twin - ...I Care Because You Do/11 - Cow Cud Is A Twin.mp3
+99:Aphex Twin - ...I Care Because You Do/12 - Next Heap With.mp3
+100:Aphex Twin - Come To Daddy/01 - Come To Daddy (Pappy Mix).mp3
+101:Aphex Twin - Come To Daddy/02 - Flim.mp3
+102:Aphex Twin - Come To Daddy/03 - Come to Daddy (Little Lord Faulteroy Mix).mp3
+103:Aphex Twin - Come To Daddy/04 - Bucephalus Bouncing Ball.mp3
+104:Aphex Twin - Come To Daddy/05 - To Cure A Weakling Child (Contour Regard).mp3
+105:Aphex Twin - Come To Daddy/06 - Funny Little Man.mp3
+106:Aphex Twin - Come To Daddy/07 - Come To Daddy (Mummy Mix).mp3
+107:Aphex Twin - Come To Daddy/08 - IZ-US.mp3
+108:Aphex Twin/2001 - Drukqs/CD1/01 - Jynweythek.mp3
+109:Aphex Twin/2001 - Drukqs/CD1/02 - Vordhosbn.mp3
+110:Aphex Twin/2001 - Drukqs/CD1/03 - Kladfvgbung Micshk.mp3
+111:Aphex Twin/2001 - Drukqs/CD1/04 - Omgyjya-Switch7.mp3
+112:Aphex Twin/2001 - Drukqs/CD1/05 - Strotha Tynhe.mp3
+113:Aphex Twin/2001 - Drukqs/CD1/06 - Gwety Mernans.mp3
+114:Aphex Twin/2001 - Drukqs/CD1/07 - Bbydhyonchord.mp3
+115:Aphex Twin/2001 - Drukqs/CD1/08 - Cock,Ver10.mp3
+116:Aphex Twin/2001 - Drukqs/CD1/09 - Avril 14th.mp3
+117:Aphex Twin/2001 - Drukqs/CD1/10 - Mt Saint Michel + Saint Michael's Mount.mp3
+118:Aphex Twin/2001 - Drukqs/CD1/11 - Gwarek2.mp3
+119:Aphex Twin/2001 - Drukqs/CD1/12 - Orban Eq Trx4.mp3
+120:Aphex Twin/2001 - Drukqs/CD1/13 - Aussois.mp3
+121:Aphex Twin/2001 - Drukqs/CD1/14 - Hy A Scullyas Lyf A Dhagrow.mp3
+122:Aphex Twin/2001 - Drukqs/CD1/15 - Kesson Dalef.mp3
+123:Aphex Twin/2001 - Drukqs/CD2/01 - 54 Cymru Beats.mp3
+124:Aphex Twin/2001 - Drukqs/CD2/02 - Btoum-Roumada.mp3
+125:Aphex Twin/2001 - Drukqs/CD2/03 - Lornaderek.mp3
+126:Aphex Twin/2001 - Drukqs/CD2/04 - QKThr.mp3
+127:Aphex Twin/2001 - Drukqs/CD2/05 - Meltphace 6.mp3
+128:Aphex Twin/2001 - Drukqs/CD2/06 - Bit4.mp3
+129:Aphex Twin/2001 - Drukqs/CD2/07 - Prep Gwarlek 3b.mp3
+130:Aphex Twin/2001 - Drukqs/CD2/08 - Father.mp3
+131:Aphex Twin/2001 - Drukqs/CD2/09 - Taking Control.mp3
+132:Aphex Twin/2001 - Drukqs/CD2/10 - Petiatil Cx Htdui.mp3
+133:Aphex Twin/2001 - Drukqs/CD2/11 - Ruglen Holon.mp3
+134:Aphex Twin/2001 - Drukqs/CD2/12 - Afx 237 V7.mp3
+135:Aphex Twin/2001 - Drukqs/CD2/13 - Ziggomatic 17.mp3
+136:Aphex Twin/2001 - Drukqs/CD2/14 - Beskhu3epnm.mp3
+137:Aphex Twin/2001 - Drukqs/CD2/15 - Nanou 2.mp3
+138:Aphex Twin - MARCHROMT30a Edit 2b 96/01 - MARCHROMT30a Edit 2b 96.mp3
+139:Aphex Twin - MARCHROMT30a Edit 2b 96/02 - XMAS_EVET1 N.mp3
+140:Aphex Twin - MARCHROMT30a Edit 2b 96/03 - MARCHROMT38 fast.mp3
+141:Jacques Brel - Intégrale des albums studio/010 - Gloria.mp3
+142:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/02 duvet Cyberia reMIX.flac
+143:Complete Music Box Urusei Yatsura/Disc 04 - Fumitaka Anzai/Open Invitation.flac
+144:Initial D - Best Song Collection 1998-2004/CD2/09 JIRENMA.mp3
+145:GREAF - FACELESS 2017 (ALBUM.)/GREAF - FACELESS 2017 (ALBUM.)/27. Fancy Seeing You Here (Bonus).mp3
+146:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/01 SpeEd.flac
+147:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/03 Professed Intention and Real Intention.flac
+148:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/04 Antidepressant 044.flac
+149:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/05 Psychedelic Farm.flac
+150:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/06 Invisible File.flac
+151:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/07 Prayer.flac
+152:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/08 Island in Video Casset.flac
+153:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/09 K.I.D.s.flac
+154:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/10 Cloudy, with Occasional Rain.flac
+155:Serial Experiments Lain/Serial Experiments Lain Soundtrack Cyberia Mix/11 INFANiTy World.flac
+156:Complete Music Box Urusei Yatsura/Disc 08 - Remember My Love/Out Of Line.flac
+157:Juicy j - Vol. 9 It's On/01 - Juicy J - Intro.m4a
+158:Juicy j - Vol. 9 It's On/02 -Juicy J - 9 To Ya Dome (Project Pat).m4a
+159:Juicy j - Vol. 9 It's On/03 - Juicy J - It Was Triple Six (Feat. Lord Infamous,Skinny Pimp) - .m4a
+160:Juicy j - Vol. 9 It's On/04 - Juicy J - Blow A Niggaz Azz Off Part 2 (Lil Glock & S.O.G.).m4a
+161:Juicy j - Vol. 9 It's On/05 - Juicy J - Pimp Dem Sluts.m4a
+162:Juicy j - Vol. 9 It's On/06 - Juicy J - No I'm Not Dat Nigga.m4a
+163:Juicy j - Vol. 9 It's On/07 - Juicy J - Dick Suckin Hoes.m4a
+164:Juicy j - Vol. 9 It's On/08 - Juicy J - Break Ya Self (Feat. Lil Noid).m4a
+165:Juicy j - Vol. 9 It's On/09 - Juicy J - Soldiers From The Northside.m4a
+166:Juicy j - Vol. 9 It's On/10 - Juicy J - South Park (Lil Fly).m4a
+167:Juicy j - Vol. 9 It's On/11 - Juicy J - Hoes In This House.m4a
+168:Juicy j - Vol. 9 It's On/12 - Juicy J - Easily Executed (Project Pat)_Stomp Muthafucka Stomp Part 1.m4a
+169:Juicy j - Vol. 9 It's On/13 - Juicy J - Ridin In Da Chevy (Lil Noid,Lil Fly).m4a
+170:Juicy j - Vol. 9 It's On/14 - Juicy J - Run Yo Mouth (Al Kapone,MC Mack).m4a
+171:Juicy j - Vol. 9 It's On/15 - Juicy J - Come And Get Yo Wig Split (Feat. Lil Glock & S.O.G.).m4a
+172:Juicy j - Vol. 9 It's On/16 - Juicy J - Dedication.m4a
+173:Juicy j - Vol. 9 It's On/17 - Juicy J - Let's Make A Stang (MC Mack).m4a
+174:Juicy j - Vol. 9 It's On/18 - Juicy J - Kill Me A Muthafucka (Project Pat).m4a
+175:Juicy j - Vol. 9 It's On/19 - Juicy J - Niggaz Down 2 Make Sum Endz - .m4a
+176:Fishmans - Long Season/Fishmans - Long Season.mp3
+playlist_end

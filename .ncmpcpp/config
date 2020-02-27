@@ -1,0 +1,57 @@
+[mpd]
+mpd_music_dir = "/home/clement/musique/"
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_crossfade_time = "2"
+
+[visualizer]
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_in_stereo = "no"
+visualizer_type = "wave"
+visualizer_output_name = "my_fifo"
+#visualizer_look = "●┃"
+visualizer_look = "+|"
+visualizer_color = "red"
+
+[header]
+header_visibility = no
+#header_window_color = "default"
+#playlist_shorten_total_times = yes"
+#volume_color = "default"
+#state_line_color = "blue" 
+#display_volume_level = no
+
+[browser]
+browser_display_mode = "columns"
+
+[search]
+search_engine_display_mode = "columns"
+
+[playlist]
+playlist_display_mode = "columns"
+song_list_format = "{{%a   %t}|{%f}}{$R%l}"
+now_playing_prefix = "$b$2 > "
+now_playing_suffix = "$/b$9"
+
+[statusbar]
+progressbar_look = "─╼ "
+#progressbar_look = "=>-"
+progressbar_elapsed_color = "red"
+progressbar_color = "red"
+#statusbar_visibility = "no"
+statusbar_color = "white"
+song_status_format = " $b%a $4> $2%t "
+
+[library]
+#song_library_format = "{{%t}|{%f}}{$R%l}"
+song_library_format = "{%n - }{%t}|{%f}"
+empty_tag_color = "default"
+
+[global]
+colors_enabled = "yes"
+autocenter_mode= "no"
+user_interface = "classic"
+main_window_color = "default"
+centered_cursor = "no"
+enable_window_title = "yes"
+external_editor = "vim"

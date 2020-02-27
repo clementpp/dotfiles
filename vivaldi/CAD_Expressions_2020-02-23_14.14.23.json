@@ -1,0 +1,228 @@
+{
+  "default": [
+    {
+      "expression": "*.4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "BVU4ytXJC"
+    },
+    {
+      "expression": "*.duckduckgo.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PkN-zmdT-"
+    },
+    {
+      "expression": "*.imdb.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "M9WQ1K9_w"
+    },
+    {
+      "expression": "*.lainchan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZG1zOoC6_R"
+    },
+    {
+      "expression": "*.mail.google.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "4e9D1PF1A"
+    },
+    {
+      "expression": "*.myanimelist.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "3KPhds1CK"
+    },
+    {
+      "expression": "*.nyaa.si",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "yP2gzCP_T"
+    },
+    {
+      "expression": "*.pixiv.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "6V9yVpaje"
+    },
+    {
+      "expression": "*.senscritique.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "iE-EDrEQ8"
+    },
+    {
+      "expression": "*.soundcloud.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "m1B4C0ypEY"
+    },
+    {
+      "expression": "*.startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "JD_ie8uTH"
+    },
+    {
+      "expression": "*.sushigirl.us",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "0GY-1okzYZ"
+    },
+    {
+      "expression": "*.tineye.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "rGlrD-6iyA"
+    },
+    {
+      "expression": "*.tumblr.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "o9M2qel2y"
+    },
+    {
+      "expression": "*.yggtorrent.*",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZeViMQnh"
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "f-mzP1Q7nl"
+    },
+    {
+      "expression": "*8chan.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "2zFGFKMIR"
+    },
+    {
+      "expression": "4chan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "voXXwxDQ6"
+    },
+    {
+      "expression": "8chan.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "G1DR_Be7I"
+    },
+    {
+      "expression": "duckduckgo.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "PT3cF7sVh"
+    },
+    {
+      "expression": "imdb.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "ZYm3OASol"
+    },
+    {
+      "expression": "lainchan.org",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "sABP9ULO8"
+    },
+    {
+      "expression": "myanimelist.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "RsE0mjH1g"
+    },
+    {
+      "expression": "nyaa.si",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "DrvRE7LEV"
+    },
+    {
+      "expression": "pixiv.net",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "whekULeMI"
+    },
+    {
+      "expression": "senscritique.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "QKpyDyaUf"
+    },
+    {
+      "expression": "soundcloud.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "p9CSf9UCK"
+    },
+    {
+      "expression": "startpage.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "OyVnr4zdS"
+    },
+    {
+      "expression": "sushigirl.us",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "l821BQH4F"
+    },
+    {
+      "expression": "tineye.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "Q8U5Iakh5"
+    },
+    {
+      "expression": "tumblr.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "oMtZhMYzC"
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cookieNames": [],
+      "id": "UVQ3P8eUM"
+    }
+  ]
+}
