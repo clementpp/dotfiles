@@ -16,7 +16,7 @@
 * lxappearance
 * xbacklight
 
-### Scrot
+### Scrot :
 
 ![desktop](desktop.png)
 
