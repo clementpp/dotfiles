@@ -15,6 +15,7 @@
 * neofetch
 * lxappearance
 * xbacklight
+* mpv
 
 ### Scrot :
 
