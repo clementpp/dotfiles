@@ -9,4 +9,4 @@ My system runs on debian buster with BSPWM.
 
 ![desktop](preview.png)
 
-─=≡Σ((( つ＞＜)つ
+ヽ(o^ ^o)ﾉ
