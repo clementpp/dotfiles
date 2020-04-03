@@ -1,4 +1,4 @@
-# My personnal dotfiles :
+# My personal dotfiles
 
 My system runs on debian buster with BSPWM.
 
