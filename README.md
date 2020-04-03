@@ -1,4 +1,6 @@
-# Dotfiles for debian + bspwm
+# My personnal dotfiles :
+
+My system runs on debian buster with BSPWM.
 
 ### Programs to install :
 * bspwm + sxhkd
@@ -17,8 +19,8 @@
 * xbacklight
 * mpv
 
-### Scrot :
+### Preivew :
 
-![desktop](desktop.png)
+![desktop](preview.png)
 
 ─=≡Σ((( つ＞＜)つ
