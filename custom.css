@@ -1,0 +1,22 @@
+.win10 .vivaldi,
+#browser.win.win10.tabs-top #header #titlebar .window-buttongroup button {
+	height: 30px !important;
+}
+
+.vivaldi span {
+	margin-top: -13px !important;
+}
+
+.win.normal #tabs-container.top, .linux.normal #tabs-container.top,
+#tabs-container.top,
+.linux.normal .topmenu+#tabs-container.top,
+.win10.normal #tabs-container.top,
+.win.normal .topmenu+#tabs-container.top {
+	padding-top: 0 !important;
+}
+
+#tabs-container > div.toolbar.toolbar-tabbar.toolbar-noflex.sync-and-trash-container,
+.button-toolbar toggle-trash,
+.window-buttongroup {
+	display: none !important;
+} 
