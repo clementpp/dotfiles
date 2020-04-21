@@ -1,5 +1,7 @@
 # My personal dotfiles
 
+![thinkpad](thinkpad.png)
+
 My system runs on debian buster with BSPWM.
 
 ### Programs to install :
