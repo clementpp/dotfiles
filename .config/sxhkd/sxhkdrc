@@ -8,8 +8,8 @@ super + Return
 
 # program launcher @space
 super + d
-	dmenu_run -fn 'Iosevka Term' -nb '#051519' -nf '#ffffff' -sb '#f8818e' -sf 'black'
-
+	rofi -show run -modi run,window
+	
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
