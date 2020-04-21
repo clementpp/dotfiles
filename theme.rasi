@@ -1,0 +1,54 @@
+* {
+  background-color: transparent; 
+  text-color: #ffffff;
+  spacing: 0;
+  width: 370px;
+  border-color: #f8818e;
+}
+
+#window {
+  padding: 7px;
+  background-color: rgba ( 5, 21, 25, 75% );
+  border: 1px;
+}
+
+inputbar {
+  children: [prompt,entry];
+  margin:0 0 10px 0;
+}
+
+prompt {
+  padding: 16px;
+  background-color: #0a2a33;
+}
+
+textbox {
+  background-color: #0a2a33;
+  padding: 8px 8px;
+  margin: 0 0 12px 0; 
+}
+
+entry {
+  padding: 16px;
+  background-color: #072026;
+}
+
+listview {
+  cycle: false;
+  margin: 0 0 -1px 0;
+  scrollbar: false;
+}
+
+element {
+  padding: 15px;
+  margin: 0 0 12px 0;
+  background-color: #072026;
+}
+
+element selected {
+  background-color: #0c353f;
+
+  border-radius: 7px;
+}
+
+/* vim:ft=css
