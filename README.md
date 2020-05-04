@@ -23,4 +23,4 @@ My system runs on Debian Buster with BSPWM.
 
 ![desktop](preview.png)
 
-ヽ(o^ ^o)ﾉ
+<p align="center">ヽ(o^ ^o)ﾉ</p>
