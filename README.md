@@ -2,12 +2,24 @@
 
 ![thinkpad](thinkpad.png)
 
-My system runs on debian buster with BSPWM.
+My system runs on Debian Buster with BSPWM.
 
-### Programs to install :
-`bspwm + sxhkd, urxvt, polybar, feh, mpd + ncmpcpp + mpc, rofi, zathura, nautilus, zsh, vim, scrot, vivaldi, neofetch, lxappearance, xbacklight, mpv`
+## Programs to install :
+* WM :`bspwm + sxhkd`
+* Terminal : `urxvt` with `zsh`
+* Bar : `polybar`
+* Editor : `vim`
+* Launcher: `rofi`
+* Web browser : `vivaldi`
+* File explorer : `nautilus`
+* Media:
+  * Video player : `mpv`
+  * Image viewer : `feh`
+  * Music player : `mpd` + `ncmpcpp` + `mpc`
+  * Document viewer : `mupdf`
+* Utilities : `xbacklight`, `scrot`, `neofetch`, `lxappearance`
 
-### Preview :
+## Preview :
 
 ![desktop](preview.png)
 
