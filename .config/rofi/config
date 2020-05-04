@@ -1,2 +1,2 @@
-rofi.theme: .config/rofi/theme.rasi
-rofi.lines: 5 
+rofi.theme: .config/rofi/red.rasi
+rofi.lines: 8
